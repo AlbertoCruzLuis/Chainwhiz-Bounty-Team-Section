@@ -8,9 +8,11 @@
 
 > This a web fow show Team Section for Chainwhiz Bounty.
 
-![](public/data/images/AboutPage.png)
+<a href="https://chainwhiz-bounty-team-section.vercel.app/" target="_blank">
+  <img alt="Twitter: albertocruzdev" src="public/data/images/AboutPage.png" />
+</a>
 
-### ✨ [Demo](chainwhiz-bounty-team-section.vercel.app)
+### ✨ [Demo](https://chainwhiz-bounty-team-section.vercel.app/)
 
 ## Install
 
